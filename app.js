@@ -74,3 +74,7 @@
 // var const let
 // varはほとんど使わない。
 
+
+
+// メイン部分
+let alertString;

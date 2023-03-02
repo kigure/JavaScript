@@ -69,3 +69,18 @@ function foo(){
 }
 
 foo()
+
+if (str == "webcamp"){
+  console.log("Good job!");
+}
+
+function me() {
+  match = 73
+  if(match == 74){
+    console.log("Good job!");
+  }else{
+    console.log("Bad job!");
+  }
+}
+
+me()
